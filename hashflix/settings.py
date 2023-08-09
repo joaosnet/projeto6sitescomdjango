@@ -94,10 +94,10 @@ DATABASES = {
     }
 }
 
-DATABASES_URL = os.getenv('DATABASE_URL')
-if DATABASES_URL:
+DATABASE_URL = os.getenv('DATABASE_URL')
+if DATABASE_URL:
     DATABASES = {
-        'default': dj_database_url.config(default=DATABASES_URL, conn_max_age=1800)
+        'default': dj_database_url.config(default=DATABASE_URL, conn_max_age=1800)
     }
 
 # Password validation
