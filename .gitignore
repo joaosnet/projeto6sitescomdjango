@@ -161,3 +161,4 @@ cython_debug/
 
 planejamento.txt
 desktop.ini
+db.sqlite3
