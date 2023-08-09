@@ -1,5 +1,6 @@
 from django.db import models
 from django.utils import timezone
+from django.contrib.auth.models import AbstractUser
 # Create your models here.
 
 LISTA_CATEGORIAS = (
@@ -26,6 +27,18 @@ class Filme(models.Model):
     
     def __str__(self):
         return self.titulo
+    
 # Criar os Epsoódios
+class Epsodio(models.Model):
+    filme = models.ForeignKey("Filme", on_delete=models.CASCADE, related_name="episodios")
+    titulo = models.CharField(max_length=100)
+    video = models.URLField()
+
+    def __str__(self):
+        return self.filme.titulo + ' - '+ self.titulo
+
+
 
 # Criar o Usuário
+class Usuario(AbstractUser):
+    filmes_vistos = models.ManyToManyField("Filme")
