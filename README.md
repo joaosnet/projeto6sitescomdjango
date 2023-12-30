@@ -7,7 +7,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joaosnet/projeto6sitescomdjango?style=for-the-badge)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/joaosnet/projeto6sitescomdjango/blob/master/README.pt-br.md)
 
-<img height="256" src="https://github.com/joaosnet/projeto6sitescomdjango/blob/main/screenshots/homepage.png"/>
+<img src="https://github.com/joaosnet/projeto6sitescomdjango/blob/main/screenshots/homepage.png"/>
 
 ## link for website: https://projeto6sitescomdjango-production.up.railway.app/
 
