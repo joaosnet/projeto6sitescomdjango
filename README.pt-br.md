@@ -1,4 +1,4 @@
-# Criando Sites com Django - Construindo um Clone do Netflix
+# Construindo um Clone do Netflix
 
 ![Tamanho do repositório do GitHub](https://img.shields.io/github/repo-size/joaosnet/projeto6sitescomdjango?style=for-the-badge)
 ![Contagem de linguagens do GitHub](https://img.shields.io/github/languages/count/joaosnet/projeto6sitescomdjango?style=for-the-badge)
@@ -7,7 +7,12 @@
 ![Pull requests abertos do Bitbucket](https://img.shields.io/bitbucket/pr-raw/joaosnet/projeto6sitescomdjango?style=for-the-badge)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/joaosnet/projeto6sitescomdjango/blob/master/README.md)
 
+<img src="https://github.com/joaosnet/projeto6sitescomdjango/blob/main/screenshots/homepage.png"/>
+
 ## Link para o site: https://projeto6sitescomdjango-production.up.railway.app/
+
+## Habilidades Desenvolvidas
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
 
 ## Visão Geral do Projeto
 

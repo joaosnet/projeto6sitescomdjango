@@ -1,4 +1,4 @@
-# Creating Websites with Django - Building a Netflix Clone
+# Building a Netflix Clone
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joaosnet/projeto6sitescomdjango?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/joaosnet/projeto6sitescomdjango?style=for-the-badge)
@@ -10,6 +10,9 @@
 <img src="https://github.com/joaosnet/projeto6sitescomdjango/blob/main/screenshots/homepage.png"/>
 
 ## link for website: https://projeto6sitescomdjango-production.up.railway.app/
+
+## Skills Developed
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
 
 ## Project Overview
 
