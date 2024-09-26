@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "projeto6sitescomdjango"
+version = "0.1.0"
+description = ""
+authors = ["João Natividade <87316339+joaosnet@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+asgiref = "^3.8.1"
+crispy-bootstrap5 = "^2024.2"
+dj-database-url = "^2.2.0"
+django = "^5.1.1"
+django-crispy-forms = "^2.3"
+gunicorn = "^23.0.0"
+packaging = "^24.1"
+pillow = "^10.4.0"
+psycopg2 = "^2.9.9"
+sqlparse = "^0.5.1"
+typing-extensions = "^4.12.2"
+tzdata = "^2024.2"
+whitenoise = "^6.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
